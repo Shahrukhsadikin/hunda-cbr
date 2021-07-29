@@ -1,0 +1,22 @@
+.bannar{
+    background-color: #264653;
+}
+.feature-bike{
+    filter: grayscale(100%);
+}
+.card img{
+    width: 50%;
+}
+.card-body{
+    flex-direction: column
+}
+
+.partners {
+    display: inline-flex;
+    margin-left: 100px;
+    background-color: rgb(48, 48, 145);
+ }
+.PARTNERS img{
+     width: 80px;
+     height: 50px;
+ }
